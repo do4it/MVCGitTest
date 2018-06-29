@@ -11,6 +11,7 @@ namespace MVCGitTest.Controllers
         public ActionResult Index()
         {
             int a =2;
+            int ASD = 3;
             return View();
         }
 
