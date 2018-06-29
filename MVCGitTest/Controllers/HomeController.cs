@@ -10,7 +10,6 @@ namespace MVCGitTest.Controllers
     {
         public ActionResult Index()
         {
-            int a =2;
             return View();
         }
 
